@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omaliafo.github.io/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/app/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/assets/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/css/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/includes/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/item/sitemap.html.gz
+Sitemap: https://omaliafo.github.io/src/sitemap.html.gz
